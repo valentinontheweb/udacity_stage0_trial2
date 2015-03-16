@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>
+      Basics of the web | Lecture notes
+    </title>
+  </head>
+  <body>
+    <div>
+      <b>Infos </b><br>
+      Date 2015/03/16<br>
+      Autor Valentin Vonnemann<br>
+      valentinontheweb@gmail.com<br>
+      <b><em>Here I summarize a lecture on "The Basics of the web from 
+      <a href="https://www.udacity.com/">udacity.com</a>"</em></b><br>
+      <br>
+    </div>
+    <div>
+      <b>Table of content</b><br>
+      <ul>
+        <li>What is the web made up off</li>
+        <li>What can be web content</li>
+        <li>HTML</li>
+      </ul>
+      <br>
+    </div>
+    <div>
+      <b>Elements of the web</b><br>
+      people as users, servers, client computers, network wires, browsers, requests, protocolls, computer langauge,  urls (adresses), documents, hyperlinks, information/content, logic and algorithms (programs)<br>
+      <br>
+    </div>
+    <div>
+      <b>Web Content </b><br>
+      <p>
+        documents as files, hyperlinks, music files, video files, text files, picture files, programms, data in databases
+      </p>
+      <p>
+        Comment: the computer language and is a central element that connects humans and computers; coding means speaking to a computer; coding actually means <em></em>telling a computer what to do</em>... or <em>writing something definite</em> or <em>something more complex and less one-sided wehn we come to AI</em>.  
+      </p>
+      <br>
+    </div>
+    <div>
+      <b>HTML</b><br>
+      Document structure; doctype, html, header, body<br>
+      elements, tag, attribute, opening and closing, whitespace, boxes and inline<br>
+      <br>
+    </div>
+    <div>
+      <b>copy this </b><br>
+      <br>
+    </div>
+    
+    
+    
+    <div>
+      <b>Block_Title <em>(something a bit like a "class" that i used to create this document. to understand you have to look into the HTML.)</em></b><br>
+      <br>
+      <br>
+    </div>
+    <div>
+  </body>
+</html>
